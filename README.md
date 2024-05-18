@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Momchil Ivanov.
 - 👀 I’m interested in Python, Excel and Data Analysis.
-- 🌱 I’m currently learning Python OOP at SoftUni.
+- 🌱 I’m currently learning PostgreSQL at SoftUni.
 - 💞️ I’m looking to collaborate on projects which will help me learn the basic and advanced aspects of programming.
 - 📫 How to reach me: e-mail: momchil2207@gmail.com
 
